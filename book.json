@@ -1,5 +1,5 @@
 {
     "plugins": [
-        "tex"
+		"mermaid-gb3"
     ]
 }
