@@ -417,7 +417,7 @@ int main()
 
 
 
-Markdown 还没有办法指定图片的高度与宽度，需要的话，可以使用普通<img> 标签。
+Markdown 还没有办法指定图片的高度与宽度，需要的话，可以使用普通`<img>`标签。
 
 ```
 <img src="/markdown/image/black.jpg" alt="黑块相对路径缩放50%" style="zoom:50%;" />
