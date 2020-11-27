@@ -5,3 +5,7 @@
     * [作图](markdown/Markdown作图.md)
 * [开放API](api/api.md)
     * [wrk](api/wrk使用.md)
+* [tinyscanI](tinyscan/tinyscan.md)
+    * [固件测试](tinyscan/固件测试.md) 
+
+
